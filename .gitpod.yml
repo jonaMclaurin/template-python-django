@@ -17,3 +17,13 @@ ports:
 vscode:
   extensions:
     - ms-python.python
+    - donjayamanne.python-extension-pack
+    - kohler.path-intellisense
+    - magicstack.magicpython
+    - ms-toolsai.jupyter-keymap
+    - ms-toolsai.jupyter
+    - ormulahendry.code-runner
+    - ms-toolsai.jupyter-renderers
+    - tyriar.lorem-ipsum
+    - eamodio.gitlens
+    - jtr.vscode-position
